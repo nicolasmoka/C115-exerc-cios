@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Qual desses animais NÃO é um inseto?",
+        "options": ["a) Formiga", "b) Escorpião", "c) Louva deus", "d) Borboleta"],
+        "answer": "b"
+    },
+    {
+        "question": "Em qual das seguintes classificações de plantas o pinheiro se encaixa?",
+        "options": ["a) Briófita", "b) Pteridófita", "c) Angiosperma", "d) Gimnosperma"],
+        "answer": "d"
+    }
+]
